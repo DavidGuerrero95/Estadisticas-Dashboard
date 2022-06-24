@@ -1,0 +1,11 @@
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\Estadisticas\src\main\java\com\app\estadisticas\controllers\EstadisticasController.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\Estadisticas\src\main\java\com\app\estadisticas\config\SwaggerConfiguration.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\Estadisticas\src\main\java\com\app\estadisticas\EstadisticasApplication.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\Estadisticas\src\main\java\com\app\estadisticas\clients\EstadisticasFeignClient.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\Estadisticas\src\main\java\com\app\estadisticas\clients\SuscripcionesFeignClient.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\Estadisticas\src\main\java\com\app\estadisticas\clients\ProyectosFeignClient.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\Estadisticas\src\main\java\com\app\estadisticas\models\Suscripciones.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\Estadisticas\src\main\java\com\app\estadisticas\models\Proyectos.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\Estadisticas\src\main\java\com\app\estadisticas\models\Comentarios.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\Estadisticas\src\main\java\com\app\estadisticas\models\Estadisticas.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\Estadisticas\src\main\java\com\app\estadisticas\response\Interacciones.java

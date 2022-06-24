@@ -1,0 +1,11 @@
+com\app\estadisticas\models\Estadisticas.class
+com\app\estadisticas\models\Comentarios.class
+com\app\estadisticas\models\Suscripciones.class
+com\app\estadisticas\clients\EstadisticasFeignClient.class
+com\app\estadisticas\controllers\EstadisticasController.class
+com\app\estadisticas\config\SwaggerConfiguration.class
+com\app\estadisticas\EstadisticasApplication.class
+com\app\estadisticas\clients\SuscripcionesFeignClient.class
+com\app\estadisticas\models\Proyectos.class
+com\app\estadisticas\response\Interacciones.class
+com\app\estadisticas\clients\ProyectosFeignClient.class
