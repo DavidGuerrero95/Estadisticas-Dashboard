@@ -9,7 +9,8 @@ import com.app.estadisticas.models.Estadisticas;
 @FeignClient(name = "app-estadistica")
 public interface EstadisticasFeignClient {
 
-	@GetMapping("/estadistica/ver/estadisticas/{nombre}")
-	public Estadisticas verEstadistica(@PathVariable("nombre") String nombre);
-	
+	@GetMapping("/estadisticas/proyecto/{idProyecto}/formulario/{formulario}")
+	public Estadisticas verEstadistica(@PathVariable("idProyecto") Integer idProyecto,
+			@PathVariable("formulario") Integer formulario);
+
 }
